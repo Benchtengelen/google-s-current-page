@@ -1,0 +1,125 @@
+img {
+    width: 400px;
+    position: relative;
+    left: 50%;
+    margin-left: -200px;
+    top: 100px;
+}
+
+
+
+#arama {
+    top: 150px;
+    text-align: center;
+    border-radius: 10px 10px 10px 10px;
+    width: 480px;
+}
+
+.arama {
+    text-align: center;
+    
+    
+}
+
+ .buttons {
+    text-align: center;
+} 
+
+.googlesearch {
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    font-size: 14px;
+   
+  }
+  
+  .feelinglucky {
+    padding: 0 16px;
+    line-height: 27px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+    font-size: 14px;
+  }
+
+
+.panel {
+    position: fixed;
+    left: 1650px;
+}
+
+.panel1 {
+    position: fixed;
+    left: 1600px;
+}
+
+.panel2 {
+    position: fixed;
+    left: 1330px;
+    top: 55px;
+}
+
+.panel3 {
+    position: fixed;
+    left: 1280px;
+    top: 55px;
+}
+
+#resim {
+   width: 200px;
+}
+
+.footer {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #dfe1e5;
+    border-top: 1px solid #dadce0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin-left: -8px;
+    line-height: 10px;
+    list-style-type: none;
+    background-color: #f2f2f2;
+  }
+  
+  .footerli {
+    float: left;
+  }
+  
+  .footerli a {
+    display: block;
+    color: #70757a;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin-left: 14px;
+    margin-right: -20px;
+  }
+  
+  .footerli a:hover {
+    text-decoration: underline;
+  }
+
+  .icons {
+      position: absolute;
+      top: 0;
+      width: 10%;
+      display: flex;
+      padding: 12px 20px;
+      justify-content: space-between;
+  }
+
+  .icons img {
+      width: 200px;
+  }
+
+
